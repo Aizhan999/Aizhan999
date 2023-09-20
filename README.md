@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Aizhan999
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning HTML/CSS
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on the little projects
 - 📫 How to reach me 89219659231(whatsup)
 
 <!---
